@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Zadanie</string>
+    <string name="Button1">Button</string>
+    <string name="Button2">Button</string>
+    <string name="Button3">Button</string>
+    <string name="Button4">Button</string>
+    <string name="startValue">0</string>
+    <string name="YW">You Win :)</string>
+    <string name="YL">You Loose ;(</string>
+
+</resources>
